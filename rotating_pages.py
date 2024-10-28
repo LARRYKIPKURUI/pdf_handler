@@ -14,7 +14,7 @@ def rotate_pages(input_pdf, output_pdf, rotation):
 
     print(f"New PDF is saved as {output_pdf}")
 
-rotate_pages('merged.pdf', 'landscape.pdf', 90)
+rotate_pages('merged.pdf', 'landscape.pdf', 270)
 
 
 
